@@ -1,0 +1,139 @@
+{
+  "name": "Kim Vu",
+  "logo_name": "zuker",
+  "role": "Front-end developer",
+  "about": {
+    "sections": {
+      "professional-info": {
+        "title": "professional-info",
+        "icon": "icons/info-professional.svg",
+        "info": {
+          "experience": {
+            "title": "experience",
+            "description": "<br>With 2 years of experience in front-end development, I have contributed to building and optimizing modern web interfaces for various applications. I have hands-on experience working with frameworks like React.js and Next.js, integrating RESTful APIs and GraphQL, and collaborating closely with designers and backend developers to deliver responsive and accessible user experiences. <br><br>During this time, I've also become proficient in using tools like Git, Webpack, and modern CSS methodologies to ensure clean, maintainable code and smooth project workflows."
+          },
+          "hard-skills": {
+            "title": "hard-skills",
+            "description": "<br>As a front-end developer, I have solid knowledge of HTML5, CSS3, JavaScript (ES6+), and TypeScript. I'm skilled in working with React.js, including hooks, context API, and component architecture. I also have experience with Next.js for server-side rendering and static site generation. <br><br>I’m familiar with version control using Git, styling frameworks such as Tailwind CSS or SCSS, and building responsive, mobile-friendly interfaces. I regularly use debugging tools and browser dev tools to ensure cross-browser compatibility and performance optimization."
+          },
+          "soft-skills": {
+            "title": "soft-skills",
+            "description": "<br>I bring strong communication skills, a collaborative mindset, and a willingness to learn and adapt quickly. <br><br>I’m comfortable working in agile teams, participating in code reviews, and giving or receiving constructive feedback. I value clean code, teamwork, and continuously improving both technically and professionally."
+          }
+        }
+      },
+      "personal-info": {
+        "title": "personal-info",
+        "icon": "icons/info-personal.svg",
+        "info": {
+          "bio": {
+            "title": "bio",
+            "description": "<br> About me <br> I am a front-end developer with 2 years of experience building responsive and user-friendly web applications. I enjoy turning design ideas into real products using modern technologies like React and Next.js. I'm passionate about clean code, continuous learning, and working in collaborative environments. <br><br> I believe in creating experiences that are not only functional but also visually engaging and accessible to all users."
+          },
+          "interests": {
+            "title": "interests",
+            "description": "<br>I enjoy playing badminton, traveling, and sightseeing. These hobbies help me relax and stay motivated both in and outside of work. I also love exploring new technologies and improving my development skills through personal projects and tutorials."
+          },
+          "education": {
+            "title": "education",
+            "description": "<br>I studied in Da Nang, Vietnam, where I developed a strong foundation in web development and software engineering. My academic background has equipped me with both theoretical and practical knowledge in front-end technologies. <br><br> During my university years, I focused on subjects such as web programming, UI/UX design, and software architecture."
+          }
+        }
+      }
+    }
+  },
+  "contacts": {
+    "direct": {
+      "title": "contacts",
+      "sources": {
+        "email": "user@gmail.com",
+        "phone": "+3598246359"
+      }
+    },
+    "social": {
+      "github": {
+        "title": "Github profile",
+        "url": "https://github.com/",
+        "user": "ZuKerNo1"
+      },
+      "facebook": {
+        "title": "Facebook profile",
+        "url": "https://facebook.com/",
+        "user": ""
+      },
+      "twitter": {
+        "title": "Twitter account",
+        "url": "https://twitter.com/",
+        "user": ""
+      }
+    },
+    "find_me_also_in": {
+      "title": "find-me-also-in",
+      "sources": {
+        "youtube": {
+          "title": "YouTube channel",
+          "url": "https://www.youtube.com/",
+          "user": ""
+        },
+        "instagram": {
+          "title": "Instagram account",
+          "url": "https://instagram.com/",
+          "user": ""
+        },
+        "twitch": {
+          "title": "Twitch profile",
+          "url": "https://twitch.com/",
+          "user": ""
+        }
+      }
+    }
+  },
+  "gists": {
+    "1": "b4bc171e1780240177e02faf9f8ecfd1",
+    "2": "905664f07fffeaea4cbfb24bfaa07b80"
+  },
+  "projects": {
+    "1": {
+      "title": "App Music",
+      "description": "App Music is a music player application that allows users to listen to their favorite songs, create playlists, and discover new music.",
+      "img": "/images/projects/app-music.jpg",
+      "tech": ["Java"],
+      "url": "https://github.com/ZuKerNo1/App_Music"
+    },
+    "2": {
+      "title": "Car rent",
+      "description": "Car Rent is a web application for renting cars, allowing users to browse available vehicles, check prices, and make reservations.",
+      "img": "/images/projects/car-rent.jpg",
+      "tech": ["NextJS", "React"],
+      "url": "https://github.com/ZuKerNo1/car-rent-nextjs"
+    },
+    "3": {
+      "title": "Crawl SenDo",
+      "description": "Crawl SenDo is a web scraping tool that collects data from the SenDo website, allowing users to extract and analyze information efficiently.",
+      "img": "/images/projects/worldmap.png",
+      "tech": ["Python"],
+      "url": "https://github.com/ZuKerNo1/crawl_SenDo"
+    },
+    "4": {
+      "title": "Tiktok clone",
+      "description": "Tiktok Clone is a web application that mimics the functionality of TikTok, allowing users to create, share, and view short videos.",
+      "img": "/images/projects/tiktok.jpg",
+      "tech": ["React", "JavaScript", "CSS", "HTML"],
+      "url": "https://github.com/ZuKerNo1/tiktok-clone-ui"
+    },
+    "5": {
+      "title": "Genz Mental Health",
+      "description": "Genz Mental Health is a web application designed to provide mental health resources and support for the Gen Z community.",
+      "img": "/images/projects/genz-mental-health.jpg",
+      "tech": ["JavaScript", "React", "CSS"],
+      "url": "https://github.com"
+    },
+    "6": {
+      "title": "Portfolio",
+      "description": "Portfolio is a personal website that showcases my projects, skills, and experiences as a front-end developer.",
+      "img": "/images/projects/portfolio.jpg",
+      "tech": ["Vue"],
+      "url": "https://github.com/ZuKerNo1/portfolio"
+    }
+  }
+}
